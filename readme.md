@@ -7,29 +7,184 @@
 
 <p align="left"> <a href="https://twitter.com/gunasheelan arullchelvan" target="blank"><img src="https://img.shields.io/twitter/follow/gunasheelan arullchelvan?logo=twitter&style=for-the-badge" alt="gunasheelan arullchelvan" /></a> </p>
 
-- 🌱 I’m currently learning **Python && Django**
 
-- 💬 Ask me about **React || Nodejs*
+- 💬 Ask me about React || Nodejs
 
 - 📫 How to reach me **gunasheelan16@gmail.com**
 
-- ⚡ Fun fact **Full Stack Developers are the 'Swiss Army Knives' of the tech world. They're proficient not only in both frontend and backend technologies but also handle databases, servers, APIs, and even deployment. It's like having a superhero who can both design the costume and write the code to power it – a true one-stop-shop for building digital wonders!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/gunasheelan24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gunasheelan24" height="30" width="40" /></a>
-<a href="https://twitter.com/gunasheelan arullchelvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gunasheelan arullchelvan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gunasheelan arullchelvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunasheelan arullchelvan" height="30" width="40" /></a>
 <a href="https://codesandbox.com/@gunasheelan24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="@gunasheelan24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gunasheelan1824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gunasheelan1824" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunasheelan24&show_icons=true&locale=en&layout=compact" alt="gunasheelan24" /></p>
+<h3 align="left">🎨 Frontend</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gunasheelan24&show_icons=true&locale=en" alt="gunasheelan24" /></p>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5"/>
+  </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunasheelan24&" alt="gunasheelan24" /></p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3"/>
+  </a>
 
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=scss" alt="SCSS"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
+  </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/>
+  </a>
+
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" alt="React"/>
+  </a>
+
+  <a href="https://angular.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=angular" alt="Angular"/>
+  </a>
+
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redux" alt="Redux Toolkit"/>
+  </a>
+
+  <a href="https://redux-toolkit.js.org/rtk-query/overview" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redux" alt="RTK Query"/>
+  </a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank">
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.jpg"
+       alt="Zustand"
+       width="48"
+       height="48"
+        style="object-fit: cover; vertical-align: middle;" />
+  </a>
+  <a href="https://www.framer.com/motion/" target="_blank">
+    <img src="https://cdn.simpleicons.org/framer" alt="Framer Motion" width="48" height="48"/>
+  </a>
+
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"/>
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/>
+  </a>
+
+  <a href="https://ui.shadcn.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4"
+         alt="shadcn/ui" width="48" height="48"/>
+  </a>
+
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite"/>
+  </a>
+
+  <a href="https://ejs.co/" target="_blank">
+    <img src="https://cdn.simpleicons.org/ejs"
+         alt="EJS" width="48" height="48"/>
+  </a>
+</p>
+<h3 align="left">⚙️ Backend</h3>
+
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
+  </a>
+
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js"/>
+  </a>
+
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS"/>
+  </a>
+
+  <a href="https://restfulapi.net/" target="_blank">
+    <img src="https://cdn.simpleicons.org/fastapi" 
+         alt="REST API"
+         width="48"
+         height="48"
+         style="vertical-align:middle;"/>
+  </a>
+
+  <a href="https://jwt.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/jsonwebtokens"
+         alt="JWT Authentication"
+         width="48"
+         height="48"
+         style="vertical-align:middle;"/>
+  </a>
+
+  <a href="https://mongoosejs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="Mongoose"/>
+  </a>
+
+  <a href="https://sequelize.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/sequelize"
+         alt="Sequelize"
+         width="48"
+         height="48"
+         style="vertical-align:middle;"/>
+  </a>
+
+  <a href="https://typeorm.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/typeorm"
+         alt="TypeORM"
+         width="48"
+         height="48"
+         style="vertical-align:middle;"/>
+  </a>
+
+  <a href="https://nodemailer.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/maildotru"
+         alt="Nodemailer"
+         width="48"
+         height="48"
+         style="vertical-align:middle;"/>
+  </a>
+
+  <a href="https://swagger.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/swagger"
+         alt="Swagger"
+         width="48"
+         height="48"
+         style="vertical-align:middle;"/>
+  </a>
+</p>
+
+<h3 align="left">🗄️ Database</h3>
+
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+  </a>
+
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
+  </a>
+
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/>
+  </a>
+</p>
+
+<h2 align="center">GitHub Analytics</h2>
+
+<p align="center" style="margin-top: 20px;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=gunasheelan24&theme=radical" 
+         alt="GitHub Streak" />
+  </a>
+</p>
