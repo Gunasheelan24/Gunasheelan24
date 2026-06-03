@@ -184,7 +184,7 @@
 
 <p align="center" style="margin-top: 20px;">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=gunasheelan24&theme=radical" 
+    <img src="https://streak-stats.demolab.com/?user=gunasheelan24&theme=radical" 
          alt="GitHub Streak" />
   </a>
 </p>
